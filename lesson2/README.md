@@ -1,0 +1,7 @@
+- Types script allows us to write strongly type javascript
+- typescript can compiled to javascript
+- Modern javascript to old browser
+- interfaces or generics are integrated on typescript
+- rich configuration options
+- better support in plain javascript file
+- 
