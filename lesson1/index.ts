@@ -11,6 +11,6 @@ function addNum(num1: number, num2: number){
 let butt = document.getElementById("add-button");
 
 butt.addEventListener("click", function (e) {
-    console.log(addNum(firstvalue.value, secondvalue.value));
+    console.log(addNum(+firstvalue.value, +secondvalue.value));
     e.preventDefault();
 })
