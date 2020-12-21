@@ -6,6 +6,7 @@
 - [Basic environment setup](./lesson4)
 - [Data types](./lesson5)
 - [Working with object](./lesson6)
+- [Working with tuple and enums](./lesson7)
 
 
 
