@@ -4,6 +4,9 @@
 - [Typescript advantages](./lesson2)
 - [Lesson overview](./lesson3)
 - [Basic environment setup](./lesson4)
+- [Data types](./lesson5)
+- [Working with object](./lesson6)
+
 
 
 ## Reference
