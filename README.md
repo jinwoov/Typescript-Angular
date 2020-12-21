@@ -1,7 +1,9 @@
 # TYPESCRIPT-ANGULAR practice
 
-1. [Vanilla js to typescript](./lesson1)
-1. [Typescript advantages](./lesson2)
+- [Vanilla js to typescript](./lesson1)
+- [Typescript advantages](./lesson2)
+- [Lesson overview](./lesson3)
+- [Basic environment setup](./lesson4)
 
 
 ## Reference
