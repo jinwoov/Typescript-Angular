@@ -8,4 +8,4 @@
 
 ## Reference
 
-[Youtube video](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+[Youtube video](https://youtu.be/BwuLxPH8IDs?t=3747)
