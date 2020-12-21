@@ -1,4 +1,4 @@
-# TYPESCRIPT-ANGULAR practice
+# Typescript-Angular practice
 
 - [Vanilla js to typescript](./lesson1)
 - [Typescript advantages](./lesson2)
