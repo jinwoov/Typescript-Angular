@@ -1,0 +1,1 @@
+- to install the angular you run `npm install -g @angular/cli@latest`
