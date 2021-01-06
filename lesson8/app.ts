@@ -1,21 +1,25 @@
-function combine(n1: number | string, n2: number | string, resultConversion: string) {
-    let result;
-    if(typeof(n1) === "number" && typeof(n2) === "number"){
-        result = n1 + n2;
-    }  else {
-        result = n1.toString() + n2.toString();
-    }
-    return resultConversion === "as-number" ? +result : result.toString();
-    
+// unknown function
+
+let userInput: unknown;
+let userName: string;
+// similar to any type
+
+userInput = 5;
+userInput = 'MAX';
+// This errors because it is unknown
+// userName = userInput
+
+// this works because you need type check
+// it is good when you dont know what the output is going to be at first
+if (typeof userInput == "string") {
+    userName = userInput;
 }
 
+// never is a type 
+// this function never return never
+function generateError(message: string, code: number): never {
+    throw { message: message, errorCode: code };
+    // infinite loops is another way of using the never type
+}
 
-const combineAges = combine(30, 26, "as-number");
-console.log(combineAges);
-
-const combineStringAges = combine("30", "26", "as-number");
-console.log(combineStringAges);
-
-
-const combinedNames = combine("Max", "Anna", "as-text"); // this errors out due to being a string instead of number
-console.log(combinedNames);
+generateError('Erorr occur', 501);
