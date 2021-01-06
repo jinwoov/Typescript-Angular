@@ -1,12 +1,12 @@
 # Typescript-Angular practice
 
-- [Vanilla js to typescript](./lesson1)
-- [Typescript advantages](./lesson2)
-- [Lesson overview](./lesson3)
-- [Basic environment setup](./lesson4)
-- [Data types](./lesson5)
-- [Working with object](./lesson6)
-- [Working with tuple and enums](./lesson7)
+- [Vanilla js to typescript](./ts/lesson1)
+- [Typescript advantages](./ts/lesson2)
+- [Lesson overview](./ts/lesson3)
+- [Basic environment setup](./ts/lesson4)
+- [Data types](./ts/lesson5)
+- [Working with object](./ts/lesson6)
+- [Working with tuple and enums](./ts/lesson7)
 
 
 
